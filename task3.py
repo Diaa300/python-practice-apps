@@ -15,8 +15,8 @@ if num % 5 == 0:
 
 if num % 2 == 0:
 
-    print(f"The number {num} is a Even")
+    print(f"The number {num} is an Even number")
 
 else:
 
-    print(f"The number {num} is a Odd")
+    print(f"The number {num} is an Odd number")
