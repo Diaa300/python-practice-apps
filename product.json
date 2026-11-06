@@ -1,0 +1,704 @@
+{
+    "products": [
+        {
+            "product_id": 1001,
+            "product_name": "Dell Laptop",
+            "category": "Electronics",
+            "price": 18000,
+            "stock": 10
+        },
+        {
+            "product_id": 1002,
+            "product_name": "Samsung Smartphone",
+            "category": "Electronics",
+            "price": 9000,
+            "stock": 15
+        },
+        {
+            "product_id": 1003,
+            "product_name": "Bluetooth Headphones",
+            "category": "Accessories",
+            "price": 750,
+            "stock": 25
+        },
+        {
+            "product_id": 1004,
+            "product_name": "Digital Watch",
+            "category": "Accessories",
+            "price": 350,
+            "stock": 30
+        },
+        {
+            "product_id": 1005,
+            "product_name": "Fast Charger",
+            "category": "Accessories",
+            "price": 450,
+            "stock": 50
+        },
+        {
+            "product_id": 1006,
+            "product_name": "Mechanical Keyboard",
+            "category": "Accessories",
+            "price": 1200,
+            "stock": 12
+        },
+        {
+            "product_id": 1007,
+            "product_name": "Generic Mouse",
+            "category": "Accessories",
+            "price": 250,
+            "stock": 40
+        },
+        {
+            "product_id": 1008,
+            "product_name": "24-inch Monitor",
+            "category": "Electronics",
+            "price": 4500,
+            "stock": 8
+        },
+        {
+            "product_id": 1009,
+            "product_name": "Wi-Fi Router",
+            "category": "Networking",
+            "price": 850,
+            "stock": 20
+        },
+        {
+            "product_id": 1010,
+            "product_name": "SSD 512GB",
+            "category": "Hardware",
+            "price": 2000,
+            "stock": 18
+        },
+        {
+            "product_id": 1011,
+            "product_name": "RAM 16GB",
+            "category": "Hardware",
+            "price": 1800,
+            "stock": 22
+        },
+        {
+            "product_id": 1012,
+            "product_name": "Pro Microphone",
+            "category": "Accessories",
+            "price": 1100,
+            "stock": 14
+        },
+        {
+            "product_id": 1013,
+            "product_name": "Webcam",
+            "category": "Electronics",
+            "price": 950,
+            "stock": 16
+        },
+        {
+            "product_id": 1014,
+            "product_name": "Laptop Bag",
+            "category": "Accessories",
+            "price": 600,
+            "stock": 35
+        },
+        {
+            "product_id": 1015,
+            "product_name": "Laptop Cooling Pad",
+            "category": "Accessories",
+            "price": 400,
+            "stock": 25
+        },
+        {
+            "product_id": 1016,
+            "product_name": "USB Flash 64GB",
+            "category": "Hardware",
+            "price": 250,
+            "stock": 60
+        },
+        {
+            "product_id": 1017,
+            "product_name": "HDMI Cable",
+            "category": "Accessories",
+            "price": 150,
+            "stock": 100
+        },
+        {
+            "product_id": 1018,
+            "product_name": "Power Bank",
+            "category": "Accessories",
+            "price": 900,
+            "stock": 19
+        },
+        {
+            "product_id": 1019,
+            "product_name": "LED Strip Light",
+            "category": "Lighting",
+            "price": 300,
+            "stock": 45
+        },
+        {
+            "product_id": 1020,
+            "product_name": "Gaming Mouse Pad",
+            "category": "Accessories",
+            "price": 200,
+            "stock": 50
+        },
+        {
+            "product_id": 1021,
+            "product_name": "Wireless Mouse",
+            "category": "Accessories",
+            "price": 350,
+            "stock": 30
+        },
+        {
+            "product_id": 1022,
+            "product_name": "Type-C Hub",
+            "category": "Accessories",
+            "price": 650,
+            "stock": 22
+        },
+        {
+            "product_id": 1023,
+            "product_name": "External HDD 1TB",
+            "category": "Hardware",
+            "price": 2500,
+            "stock": 10
+        },
+        {
+            "product_id": 1024,
+            "product_name": "Graphics Card RTX 3060",
+            "category": "Hardware",
+            "price": 12000,
+            "stock": 5
+        },
+        {
+            "product_id": 1025,
+            "product_name": "Core i5 Processor",
+            "category": "Hardware",
+            "price": 5500,
+            "stock": 8
+        },
+        {
+            "product_id": 1026,
+            "product_name": "Motherboard B450",
+            "category": "Hardware",
+            "price": 3800,
+            "stock": 7
+        },
+        {
+            "product_id": 1027,
+            "product_name": "PC Case RGB",
+            "category": "Hardware",
+            "price": 2200,
+            "stock": 12
+        },
+        {
+            "product_id": 1028,
+            "product_name": "Power Supply 600W",
+            "category": "Hardware",
+            "price": 1900,
+            "stock": 15
+        },
+        {
+            "product_id": 1029,
+            "product_name": "CPU Cooler",
+            "category": "Hardware",
+            "price": 800,
+            "stock": 25
+        },
+        {
+            "product_id": 1030,
+            "product_name": "Case Fan 3-Pack",
+            "category": "Hardware",
+            "price": 450,
+            "stock": 30
+        },
+        {
+            "product_id": 1031,
+            "product_name": "Bluetooth Speaker",
+            "category": "Electronics",
+            "price": 1250,
+            "stock": 18
+        },
+        {
+            "product_id": 1032,
+            "product_name": "Smart TV 32-inch",
+            "category": "Electronics",
+            "price": 6500,
+            "stock": 6
+        },
+        {
+            "product_id": 1033,
+            "product_name": "Smartwatch Pro",
+            "category": "Electronics",
+            "price": 2300,
+            "stock": 14
+        },
+        {
+            "product_id": 1034,
+            "product_name": "Action Camera",
+            "category": "Electronics",
+            "price": 4800,
+            "stock": 9
+        },
+        {
+            "product_id": 1035,
+            "product_name": "Ring Light",
+            "category": "Lighting",
+            "price": 550,
+            "stock": 20
+        },
+        {
+            "product_id": 1036,
+            "product_name": "Desk Lamp",
+            "category": "Lighting",
+            "price": 350,
+            "stock": 28
+        },
+        {
+            "product_id": 1037,
+            "product_name": "Ethernet Cable 5m",
+            "category": "Networking",
+            "price": 120,
+            "stock": 75
+        },
+        {
+            "product_id": 1038,
+            "product_name": "Network Switch 5-Port",
+            "category": "Networking",
+            "price": 400,
+            "stock": 15
+        },
+        {
+            "product_id": 1039,
+            "product_name": "Range Extender",
+            "category": "Networking",
+            "price": 700,
+            "stock": 12
+        },
+        {
+            "product_id": 1040,
+            "product_name": "Tablet 10-inch",
+            "category": "Electronics",
+            "price": 5200,
+            "stock": 10
+        },
+        {
+            "product_id": 1041,
+            "product_name": "Stylus Pen",
+            "category": "Accessories",
+            "price": 300,
+            "stock": 40
+        },
+        {
+            "product_id": 1042,
+            "product_name": "Wireless Earbuds",
+            "category": "Accessories",
+            "price": 950,
+            "stock": 22
+        },
+        {
+            "product_id": 1043,
+            "product_name": "VR Headset",
+            "category": "Electronics",
+            "price": 14000,
+            "stock": 4
+        },
+        {
+            "product_id": 1044,
+            "product_name": "Gaming Controller",
+            "category": "Accessories",
+            "price": 1100,
+            "stock": 17
+        },
+        {
+            "product_id": 1045,
+            "product_name": "Microphone Arm Stand",
+            "category": "Accessories",
+            "price": 450,
+            "stock": 19
+        },
+        {
+            "product_id": 1046,
+            "product_name": "Green Screen",
+            "category": "Accessories",
+            "price": 1300,
+            "stock": 8
+        },
+        {
+            "product_id": 1047,
+            "product_name": "Portable Monitor",
+            "category": "Electronics",
+            "price": 6000,
+            "stock": 7
+        },
+        {
+            "product_id": 1048,
+            "product_name": "USB Hub 4-Port",
+            "category": "Accessories",
+            "price": 200,
+            "stock": 50
+        },
+        {
+            "product_id": 1049,
+            "product_name": "VGA to HDMI Adapter",
+            "category": "Accessories",
+            "price": 180,
+            "stock": 45
+        },
+        {
+            "product_id": 1050,
+            "product_name": "DisplayPort Cable",
+            "category": "Accessories",
+            "price": 220,
+            "stock": 35
+        },
+        {
+            "product_id": 1051,
+            "product_name": "Thermal Paste",
+            "category": "Hardware",
+            "price": 150,
+            "stock": 60
+        },
+        {
+            "product_id": 1052,
+            "product_name": "NVMe M.2 1TB",
+            "category": "Hardware",
+            "price": 3200,
+            "stock": 16
+        },
+        {
+            "product_id": 1053,
+            "product_name": "DDR5 RAM 32GB",
+            "category": "Hardware",
+            "price": 4500,
+            "stock": 9
+        },
+        {
+            "product_id": 1054,
+            "product_name": "Core i7 Processor",
+            "category": "Hardware",
+            "price": 9500,
+            "stock": 6
+        },
+        {
+            "product_id": 1055,
+            "product_name": "Graphics Card RTX 4070",
+            "category": "Hardware",
+            "price": 28000,
+            "stock": 3
+        },
+        {
+            "product_id": 1056,
+            "product_name": "Motherboard Z790",
+            "category": "Hardware",
+            "price": 7800,
+            "stock": 5
+        },
+        {
+            "product_id": 1057,
+            "product_name": "Liquid Cooler 240mm",
+            "category": "Hardware",
+            "price": 3100,
+            "stock": 8
+        },
+        {
+            "product_id": 1058,
+            "product_name": "Full Tower Case",
+            "category": "Hardware",
+            "price": 4200,
+            "stock": 6
+        },
+        {
+            "product_id": 1059,
+            "product_name": "Power Supply 850W",
+            "category": "Hardware",
+            "price": 4500,
+            "stock": 10
+        },
+        {
+            "product_id": 1060,
+            "product_name": "External SSD 1TB",
+            "category": "Hardware",
+            "price": 3600,
+            "stock": 14
+        },
+        {
+            "product_id": 1061,
+            "product_name": "Wireless Charging Pad",
+            "category": "Accessories",
+            "price": 400,
+            "stock": 30
+        },
+        {
+            "product_id": 1062,
+            "product_name": "Car Phone Mount",
+            "category": "Accessories",
+            "price": 250,
+            "stock": 40
+        },
+        {
+            "product_id": 1063,
+            "product_name": "Dash Cam",
+            "category": "Electronics",
+            "price": 2200,
+            "stock": 11
+        },
+        {
+            "product_id": 1064,
+            "product_name": "Mini Projector",
+            "category": "Electronics",
+            "price": 4900,
+            "stock": 7
+        },
+        {
+            "product_id": 1065,
+            "product_name": "Smart Plug",
+            "category": "Lighting",
+            "price": 300,
+            "stock": 35
+        },
+        {
+            "product_id": 1066,
+            "product_name": "LED Bulb Smart",
+            "category": "Lighting",
+            "price": 180,
+            "stock": 50
+        },
+        {
+            "product_id": 1067,
+            "product_name": "Ethernet Cable 10m",
+            "category": "Networking",
+            "price": 200,
+            "stock": 40
+        },
+        {
+            "product_id": 1068,
+            "product_name": "Fiber Optic Patch Cord",
+            "category": "Networking",
+            "price": 150,
+            "stock": 30
+        },
+        {
+            "product_id": 1069,
+            "product_name": "Network Cable Tester",
+            "category": "Networking",
+            "price": 350,
+            "stock": 12
+        },
+        {
+            "product_id": 1070,
+            "product_name": "Gaming Chair",
+            "category": "Accessories",
+            "price": 6500,
+            "stock": 5
+        },
+        {
+            "product_id": 1071,
+            "product_name": "Office Desk",
+            "category": "Accessories",
+            "price": 3500,
+            "stock": 6
+        },
+        {
+            "product_id": 1072,
+            "product_name": "Monitor Arm Dual",
+            "category": "Accessories",
+            "price": 1400,
+            "stock": 10
+        },
+        {
+            "product_id": 1073,
+            "product_name": "Laptop Stand Aluminum",
+            "category": "Accessories",
+            "price": 500,
+            "stock": 25
+        },
+        {
+            "product_id": 1074,
+            "product_name": "Screwdriver Kit for PC",
+            "category": "Hardware",
+            "price": 400,
+            "stock": 20
+        },
+        {
+            "product_id": 1075,
+            "product_name": "Anti-Static Wrist Strap",
+            "category": "Hardware",
+            "price": 70,
+            "stock": 50
+        },
+        {
+            "product_id": 1076,
+            "product_name": "Compressed Air Can",
+            "category": "Hardware",
+            "price": 180,
+            "stock": 40
+        },
+        {
+            "product_id": 1077,
+            "product_name": "Cleaning Gel for PC",
+            "category": "Accessories",
+            "price": 90,
+            "stock": 60
+        },
+        {
+            "product_id": 1078,
+            "product_name": "Microfiber Cloth 5-Pack",
+            "category": "Accessories",
+            "price": 60,
+            "stock": 80
+        },
+        {
+            "product_id": 1079,
+            "product_name": "Bluetooth Adapter USB",
+            "category": "Accessories",
+            "price": 150,
+            "stock": 45
+        },
+        {
+            "product_id": 1080,
+            "product_name": "Wi-Fi USB Adapter",
+            "category": "Networking",
+            "price": 250,
+            "stock": 35
+        },
+        {
+            "product_id": 1081,
+            "product_name": "Mechanical NumPad",
+            "category": "Accessories",
+            "price": 600,
+            "stock": 15
+        },
+        {
+            "product_id": 1082,
+            "product_name": "Vertical Ergonomic Mouse",
+            "category": "Accessories",
+            "price": 750,
+            "stock": 18
+        },
+        {
+            "product_id": 1083,
+            "product_name": "Gaming Headset RGB",
+            "category": "Accessories",
+            "price": 1400,
+            "stock": 20
+        },
+        {
+            "product_id": 1084,
+            "product_name": "Capture Card 4K",
+            "category": "Electronics",
+            "price": 3800,
+            "stock": 8
+        },
+        {
+            "product_id": 1085,
+            "product_name": "Stream Deck",
+            "category": "Electronics",
+            "price": 5500,
+            "stock": 6
+        },
+        {
+            "product_id": 1086,
+            "product_name": "RGB Light Bar for Monitor",
+            "category": "Lighting",
+            "price": 900,
+            "stock": 14
+        },
+        {
+            "product_id": 1087,
+            "product_name": "Smart Doorbell",
+            "category": "Electronics",
+            "price": 3200,
+            "stock": 9
+        },
+        {
+            "product_id": 1088,
+            "product_name": "Security Camera IP",
+            "category": "Electronics",
+            "price": 1500,
+            "stock": 16
+        },
+        {
+            "product_id": 1089,
+            "product_name": "Smart Lock",
+            "category": "Electronics",
+            "price": 4500,
+            "stock": 5
+        },
+        {
+            "product_id": 1090,
+            "product_name": "UPS Battery Backup",
+            "category": "Hardware",
+            "price": 3500,
+            "stock": 7
+        },
+        {
+            "product_id": 1091,
+            "product_name": "Surge Protector 6-Socket",
+            "category": "Hardware",
+            "price": 450,
+            "stock": 30
+        },
+        {
+            "product_id": 1092,
+            "product_name": "USB-C to Lightning Cable",
+            "category": "Accessories",
+            "price": 250,
+            "stock": 50
+        },
+        {
+            "product_id": 1093,
+            "product_name": "Type-C to Type-C Cable",
+            "category": "Accessories",
+            "price": 200,
+            "stock": 55
+        },
+        {
+            "product_id": 1094,
+            "product_name": "Phone Repair Toolkit",
+            "category": "Hardware",
+            "price": 550,
+            "stock": 15
+        },
+        {
+            "product_id": 1095,
+            "product_name": "Soldering Iron Kit",
+            "category": "Hardware",
+            "price": 850,
+            "stock": 12
+        },
+        {
+            "product_id": 1096,
+            "product_name": "Digital Multimeter",
+            "category": "Hardware",
+            "price": 600,
+            "stock": 10
+        },
+        {
+            "product_id": 1097,
+            "product_name": "Headphone Stand RGB",
+            "category": "Accessories",
+            "price": 450,
+            "stock": 22
+        },
+        {
+            "product_id": 1098,
+            "product_name": "Laptop Sleeve 15.6",
+            "category": "Accessories",
+            "price": 350,
+            "stock": 28
+        },
+        {
+            "product_id": 1099,
+            "product_name": "Tablet Case Universal",
+            "category": "Accessories",
+            "price": 300,
+            "stock": 25
+        },
+        {
+            "product_id": 1100,
+            "product_name": "Privacy Screen Filter",
+            "category": "Accessories",
+            "price": 700,
+            "stock": 14
+        }
+    ]
+}
