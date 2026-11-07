@@ -78,21 +78,44 @@ def add_new_product():
             
         print(f"Product '{name}' added successfully with ID: {new_id}!")
 
+def delete_product():
+
+    print("\n--- Delete A Product ---")
+
+    product_id = input("Enter The ID Of The Product You Want To Delete: ")
+        
+    product_id = int(product_id)
+
+    with open("product.json", "r", encoding="utf-8") as file:
+        data = json.load(file)
+        
+    data["products"] = [p for p in data["products"] if p["product_id"] != product_id]
+
+    with open("product.json", "w", encoding="utf-8") as file:
+        json.dump(data, file, indent=4)
+
+
 @admin_required
 def admin_dashboard():
 
     while True:
         print("\n--- Admin Control Panel ---")
         print("1. Add New Product")
-        print("2. Logout / Exit Dashboard")
+        print("2. Delete A Product ")
+        print("3. Logout / Exit Dashboard")
         
         admin_choice = input("Choose an option: ").strip()
         
         if admin_choice == '1':
             add_new_product()  
+
         elif admin_choice == '2':
+            delete_product()
+        
+        elif admin_choice == '3':
             print("Logging out from Admin Panel...")
             break
+        
         else:
             print("Invalid choice, try again.")
 
